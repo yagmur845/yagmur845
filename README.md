@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yagmur845
+- 👋 Hi, I’m Yağmur
 - 👀 I’m interested in AI an Frc
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects
